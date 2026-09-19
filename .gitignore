@@ -1,0 +1,6 @@
+config.py
+.pycache
+.sqlite3
+/output
+/__pycache__
+/chroma_db
